@@ -1,1 +1,0 @@
-Practicing React with Typescript.
